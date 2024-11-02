@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"name": "Python: code debug",
+			"type": "debugpy",
+			"request": "launch",
+			"program": "${workspaceFolder}/Entregable/plot_test.py",
+			"justMyCode": false
+		}
+	]
+}

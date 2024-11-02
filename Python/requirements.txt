@@ -1,0 +1,11 @@
+# basic mathematical operations (sum, ...)
+numpy
+
+#dataframe equivalency
+pandas
+
+# plot drawing
+matplotlib
+
+# for debugging options only. Remove for production
+debugpy
