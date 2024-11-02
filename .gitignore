@@ -1,0 +1,10 @@
+#R
+.Rproj.user
+.Rhistory
+.RData
+.Rprofile
+
+#Python
+.venv
+__pycache__
+*.pyc
